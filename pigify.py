@@ -1,7 +1,7 @@
-# 
-# File Header
-#
-# Define vowels
+# Nathan Pugh Collaborated with: Nicole Ignasiak, Josiah Hardacre, Trevor Waite
+# CIS 125 82A
+# 30 September 2015
+# Week 4 Lab
 
 vowels = "aeiouAEIOU"
 
